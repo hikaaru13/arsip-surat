@@ -21,3 +21,4 @@ Memudahkan pengelolaan arsip surat di instansi/organisasi: unggah PDF, beri kate
 - Bootstrap 5
 
 ## 🗂️ Struktur penting
+<img width="1919" height="966" alt="Screenshot 2025-09-06 094809" src="https://github.com/user-attachments/assets/990c8640-70f0-4726-b3d0-996323066cc6" />
